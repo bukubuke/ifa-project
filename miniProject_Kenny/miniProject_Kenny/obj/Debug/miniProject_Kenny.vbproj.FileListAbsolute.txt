@@ -1,0 +1,16 @@
+c:\users\student1\documents\visual studio 2012\Projects\miniProject_Kenny\miniProject_Kenny\bin\miniProject_Kenny.dll
+c:\users\student1\documents\visual studio 2012\Projects\miniProject_Kenny\miniProject_Kenny\bin\miniProject_Kenny.pdb
+c:\users\student1\documents\visual studio 2012\Projects\miniProject_Kenny\miniProject_Kenny\bin\miniProject_Kenny.xml
+c:\users\student1\documents\visual studio 2012\Projects\miniProject_Kenny\miniProject_Kenny\obj\Debug\miniProject_Kenny.Resources.resources
+c:\users\student1\documents\visual studio 2012\Projects\miniProject_Kenny\miniProject_Kenny\obj\Debug\miniProject_Kenny.vbproj.GenerateResource.Cache
+c:\users\student1\documents\visual studio 2012\Projects\miniProject_Kenny\miniProject_Kenny\obj\Debug\miniProject_Kenny.dll
+c:\users\student1\documents\visual studio 2012\Projects\miniProject_Kenny\miniProject_Kenny\obj\Debug\miniProject_Kenny.xml
+c:\users\student1\documents\visual studio 2012\Projects\miniProject_Kenny\miniProject_Kenny\obj\Debug\miniProject_Kenny.pdb
+C:\Users\student1\Desktop\miniProject_Kenny\miniProject_Kenny\bin\miniProject_Kenny.dll
+C:\Users\student1\Desktop\miniProject_Kenny\miniProject_Kenny\bin\miniProject_Kenny.pdb
+C:\Users\student1\Desktop\miniProject_Kenny\miniProject_Kenny\bin\miniProject_Kenny.xml
+C:\Users\student1\Desktop\miniProject_Kenny\miniProject_Kenny\obj\Debug\miniProject_Kenny.Resources.resources
+C:\Users\student1\Desktop\miniProject_Kenny\miniProject_Kenny\obj\Debug\miniProject_Kenny.vbproj.GenerateResource.Cache
+C:\Users\student1\Desktop\miniProject_Kenny\miniProject_Kenny\obj\Debug\miniProject_Kenny.dll
+C:\Users\student1\Desktop\miniProject_Kenny\miniProject_Kenny\obj\Debug\miniProject_Kenny.xml
+C:\Users\student1\Desktop\miniProject_Kenny\miniProject_Kenny\obj\Debug\miniProject_Kenny.pdb

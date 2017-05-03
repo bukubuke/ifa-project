@@ -1,0 +1,84 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="Site1.master.vb" Inherits="miniProject_Kenny.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>MiniProject</title>
+    <link href="css/lightbox.min.css" rel="stylesheet" type="text/css" media="all"/>
+    <link rel="stylesheet" href="content/bootstrap.min.css"/> 
+    <link rel="stylesheet" href="content/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" type="text/css" href="css/stylesheet.css" />
+    <script src="content/bootstrap.min.js"></script>
+    <script src="scripts/jquery.min.js "></script>
+    <script src="scripts/jquery.plugin.min.js "></script>
+    <script src="scripts/bootstrap.min.js "></script>
+    <script src="scripts/jquery.flexslider-min.js "></script>
+    <script src="scripts/smooth-scroll.min.js "></script>
+    <script src="scripts/skrollr.min.js "></script>
+    <script src="scripts/scrollReveal.min.js "></script>
+    <script src="scripts/isotope.min.js "></script>
+    <script src="scripts/lightbox.min.js "></script>
+    <script src="scripts/scripts.js "></script>
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,400,300,600,700%7CRaleway:700" rel="stylesheet" type="text/css"/>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <div class="nav-container navbar-fixed-top">
+    <nav class="contained-bar top-bar">
+      <div class="container">
+        <div class="contained-wrapper">
+          <div class="row nav-menu">
+            <div class="col-sm-3 columns col-md-1">
+              <img class="logo logo-light" alt="Logo" src="img/logo-light.png">
+            </div>
+            <div class="col-sm-9 columns col-md-11">
+              <ul class="menu">
+                <li><a href="home.aspx">HOME </a></li>
+                <li><a href="http://kennyng.me">ABOUT </a></li>
+                <li><a href="login.aspx">Shop </a></li>
+                  <asp:LoginView ID="LoginView1" runat="server"></asp:LoginView>
+              </ul>
+            </div>
+          </div>
+          <div class="mobile-toggle">
+            <i class="icon icon_menu"></i>
+          </div>
+        </div>
+      </div>
+      <div class="bottom-border"></div>
+    </nav>
+  </div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+    <section class="strip bg-white " id="contact">
+      <div class="container ">
+        <div class="row clearfix ">
+          <div class="col-sm-3 col-xs-12 pull-left ">
+            <a href="mailto:hello@kennyng.me " class="btn btn-primary btn-grey ">Contact ME</a>
+          </div>
+          <div class="col-sm-4 col-xs-12 pull-right text-right ">
+            <ul class="social-icons ">
+              <li>
+                <a href="http://twitter.com/ken_neee " target="default ">
+                  <i class="icon social_twitter "></i>
+                </a>
+              </li>
+              <li>
+                <a href="http://instagram.com/autistkenn " target="default ">
+                  <i class="icon social_instagram "></i>
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+</body>
+</html>
